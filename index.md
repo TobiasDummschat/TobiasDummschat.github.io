@@ -6,9 +6,14 @@ title: Welcome 🤗
 
 ## Experience
 
+### Software Developer Machine Learning @ [Vilisto](https://www.vilisto.de/en/)
+
+🗓️ *September 2023 - now*  
+📍 Hamburg, Germany
+
 ### Full Stack Developer @ [Trifork](https://trifork.com/)
 
-🗓️ *January 2023 - now*  
+🗓️ *January 2023 - June 2023*  
 📍 Aarhus, Denmark
 
 ### Junior Full Stack Developer @ [Trifork](https://trifork.com/)
