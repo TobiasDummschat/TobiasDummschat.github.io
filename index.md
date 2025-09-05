@@ -6,7 +6,7 @@ title: Welcome 🤗
 
 ## Experience
 
-### Software Developer Machine Learning @ [vilisto](https://www.vilisto.de/en/)
+### Machine Learning Engineer @ [vilisto](https://www.vilisto.de/en/)
 
 🗓️ *September 2023 - now*  
 📍 Hamburg, Germany
